@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @kickfalcon
-- 👀 I’m interested ... in many things, I love watching anime, listening to music and also learning languages. 
-- 🌱 I’m currently learning ... different things, the one that is most interesting to me is web development and also japanese. 
-- 💞️ I’m looking to collaborate on ... with everyone! I don't have a lot of experience as a professional programmer but I like and I want to learn as much as I can
-- 📫 How to reach me ... you can follow me on twitter @EdgarTornez10
+# Hello there! 
 
-<!---
-kickfalcon/kickfalcon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my profile! My name is Edgar, nice to meet you guys! 
+
+## Tech
+
+I've learned to use many tools to create, some of them are: 
+
+|Web|POO/General|
+|---|-----------|
+|HTML <br> CSS <br> JS <br> MySQL <br> Docker|Assembler <br> C <br> C++ <br> C# <br> Java <br> Python|
+
+For design
+<ul>
+  <li>SolidWorks</li>
+  <li>Catia</li>
+  <li>AutoCad</li>
+  <li>Canva</li>
+  <li>Figma</li>
+  <li>Gimp</li>
+</ul>
+
+## What I like
+    Edgar={
+            'Age' : 23,
+        
+            'likes' : {1 :'music',2 :'anime',3 :'movies',4 :'programming',5 :'drawing'},
+        
+            'Do': 'student',
+            
+            'Pets': {'Dog': 'Scooby','Cat':'Kira'}
+    }
