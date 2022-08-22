@@ -19,14 +19,3 @@ For design
   <li>Figma</li>
   <li>Gimp</li>
 </ul>
-
-## What I like
-    Edgar={
-            'Age' : 23,
-        
-            'likes' : {1 :'music',2 :'anime',3 :'movies',4 :'programming',5 :'drawing'},
-        
-            'Do': 'student',
-            
-            'Pets': {'Dog': 'Scooby','Cat':'Kira'}
-    }
