@@ -12,9 +12,6 @@ I've learned to use many tools to create, some of them are:
 
 For design
 <ul>
-  <li>SolidWorks</li>
-  <li>Catia</li>
-  <li>AutoCad</li>
   <li>Canva</li>
   <li>Figma</li>
   <li>Gimp</li>
