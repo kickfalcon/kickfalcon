@@ -15,22 +15,17 @@
               }
 }
 ```
-## Tech
+## Welcome 
+I've been teaching and learning for a long time, making fun of everything and always enjoying good music :love_you_gesture: (music recommendations are always welcome 😄)
 
-I've learned to use many tools to create, some of them are:
+### In my profile
 
-### For design
-<ul>
-  <li>Canva</li>
-  <li>Figma</li>
-  <li>Gimp</li>
-</ul>
+Here you can find things related to different languages (somethings are not as good as I'd like :sweat_smile:)
 
-### Languages
-|Language|Use|
-|--------|---|
-|Python|Backend|
-|Java|Backend/User Interface|
-|JS|FrontEnd|
-|MySQL|DB|
-|MongoDB|DB|
+|Languages|
+|--------|
+|Python|
+|Java|
+|JS|
+|MySQL|
+|MongoDB|
